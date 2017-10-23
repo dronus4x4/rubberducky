@@ -1,4 +1,4 @@
-Payload originally designed by oXis for Bash Bunny.
+Payload originally designed by oXis for Bash Bunny..
 
 Bash Bunny Payload page: https://github.com/hak5/bashbunny-payloads/tree/master/payloads/library/credentials/SudoBackdoor
 
